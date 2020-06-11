@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "surname": "Хван",
+      "name": "Дмитрий",
+      "otchestvo": "Алексеевич",
+      "phone": "8 977 271 45 25",
+      "fav": true,
+      "id": 1
+    },
+    {
+      "surname": "Быкова",
+      "name": "Елизавета",
+      "otchestvo": "Данииловна",
+      "phone": "8 996 145 33 69",
+      "fav": true,
+      "id": 2
+    },
+    {
+      "surname": "Шапкин",
+      "name": "Давид",
+      "otchestvo": "Димитров",
+      "phone": "8 924 456 33 21",
+      "fav": true,
+      "id": 5
+    },
+    {
+      "surname": "Подов",
+      "name": "Гордей",
+      "otchestvo": "Семенович",
+      "phone": "8 948 663 22 03",
+      "fav": true,
+      "id": 6
+    }
+  ]
+}
